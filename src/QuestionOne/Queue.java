@@ -1,8 +1,7 @@
 package QuestionOne;
 
 /**
- * @author Dev Vaidya
- * @StudentID 19087471
+ * @author Dev
  * @param <E>
  */
 public class Queue<E extends Comparable> {

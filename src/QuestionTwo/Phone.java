@@ -4,7 +4,7 @@ import java.awt.*;
 
 /**
  *
- * @author Dev Vaidya
+ * @author Dev
  */
 public class Phone {
 

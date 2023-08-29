@@ -1,8 +1,7 @@
 package QuestionOne;
 
 /**
- * @author Dev Vaidya
- * @StudentID 19087471
+ * @author Dev
  * @param <E>
  */
 //public generic class node where E is a generic type which extends to comparable

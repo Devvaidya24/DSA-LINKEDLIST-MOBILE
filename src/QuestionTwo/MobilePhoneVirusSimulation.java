@@ -2,7 +2,7 @@ package QuestionTwo;
 
 /**
  *
- * @author Dev Vaidya
+ * @author Dev
  */
 import javax.swing.JFrame;
 
